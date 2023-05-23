@@ -1,11 +1,25 @@
 /* bod start */
 body {
   width: 100vw;
-  height: 500px;
-  background-color: red;
+  height: 600px;
+  background-color: white;
 }
 /* bod end */
 /* nav start */
+nav {
+  width: 100vw;
+  height: 80px;
+}
+nav ul {
+  list-style: none;
+  display: flex;
+  flex-flow: row;
+  justify-content: space-around;
+  align-items: stretch;
+  flex-wrap: wrap;
+  flex-direction: row;
+  align-content: space-around;
+}
 /* nav start */
 /* main start*/
 /* main end*/
