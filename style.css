@@ -9,7 +9,20 @@ body {
 /* bod end */
 /* nav start */
 nav {
+
   background: red;
+  width: 100vw;
+  height: 80px;
+}
+nav ul {
+  list-style: none;
+  display: flex;
+  flex-flow: row;
+  justify-content: space-around;
+  align-items: stretch;
+  flex-wrap: wrap;
+  flex-direction: row;
+  align-content: space-around;
 }
 /* nav start */
 /* main start*/
