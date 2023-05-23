@@ -1,4 +1,9 @@
 /* bod start */
+body {
+  width: 100vw;
+  height: 500px;
+  background-color: red;
+}
 /* bod end */
 /* nav start */
 /* nav start */
