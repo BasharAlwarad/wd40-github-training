@@ -1,6 +1,16 @@
 /* bod start */
+body {
+  background: #f5f5f5;
+  width: 100vw;
+  height: 100px;
+  font-family: 'Roboto', sans-serif;
+  font-size: 16px;
+}
 /* bod end */
 /* nav start */
+nav {
+  background: red;
+}
 /* nav start */
 /* main start*/
 /* main end*/
